@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"example.com/user/hello/morestrings"
+	"github.com/yokall/go-hello/morestrings"
 
 	"github.com/google/go-cmp/cmp"
 )
